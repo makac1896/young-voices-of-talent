@@ -4,8 +4,6 @@
 
 ### Brief by Developing Team
 
-#### YVOT Brief 1 - July 3, 2020
-
 **Team:**
 - Constance Chivhanga
 - Makatendeka Chikumbu (Lead Developer)
