@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RANDOM QUOTE GENERATOR</title>
+</head>
+<body bgcolor="black">
+	<style>
+		div {
+			width: 50vw;
+			background-color: #ea4d1f;
+			color: white;
+			padding: 1em; 
+		}
+	</style>
+	<h1><font color="red">RANDOM QUOTE GENERATOR BY MAKA10DEKA</font></h1>
+	<div onclick="load()">
+	<h1 id="name"></h1>
+	<h2 id="date"></h2>
+	<h3 id="about"></h3>
+	<p id="quote"></p>
+	</div>
+	<script type="text/javascript">
+
+	function load(){
+		let quoteNum = Math.round(Math.random() * 27) 
+		
+
+		console.log(quoteNum)
+		var request = new XMLHttpRequest()
+		request.open('GET','quotes.json')
+		request.onload = ()=> {
+			quotes = JSON.parse(request.responseText)
+			quotes = quotes.Quotes
+			if(quotes[quoteNum] == undefined){
+			console.log("Does not exist")
+			}else{
+				// console.log(quotes[quoteNum])
+				let quote = quotes[quoteNum]
+
+				document.getElementById("name").innerText = quote.author
+				document.getElementById("date").innerText = quote.date
+				document.getElementById("about").innerText = `${quote.nationality} ${quote.occupation}`
+				document.getElementById("quote").innerText = quote.quote
+			}
+		}
+
+		request.send()
+	}
+		
+	</script>
+</body>
+</html>

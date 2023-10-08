@@ -1,0 +1,166 @@
+{
+"Quotes": [
+			{"author" : "Marilyn Monroe",
+			  "date": "June 1926",
+			  "nationality": "American",
+			  "occupation": "Actress",
+			  "quote" : "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best."
+			},
+			{"author" : "Oscar Wilde",
+			  "date": "October 1854",
+			  "nationality": "Irish",
+			  "occupation": "Poet",
+			  "quote" : "Be yourself; everyone else is already taken."
+			},
+			{"author" : "Albert Einstein",
+			  "date": "March 1879",
+			  "nationality": "German",
+			  "occupation": "Physicist",
+			  "quote" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+			},
+			{"author" : "Desmond Tutu",
+			  "date": "October 1931",
+			  "nationality": "South Africa",
+			  "occupation": "Theologian",
+			  "quote" : "When the missionaries came to Africa they had the Bible and we had the land. They said 'Let us pray.' We closed our eyes. When we opened them we had the Bible and they had the land."
+			},
+			{"author" : "Bernard M. Baruch",
+			  "date": "August 1870",
+			  "nationality": "American",
+			  "occupation": "Financial Expert",
+			  "quote" : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."
+			},
+			{"author" : "William W. Purkey",
+			  "date": "Unknown",
+			  "nationality": "American",
+			  "occupation": "Teacher",
+			  "quote" : "You've gotta dance like there's nobody watching, Love like you'll never be hurt, Sing like there's nobody listening And live like it's heaven on earth."
+			},
+			{"author" : "Dr. Seuss",
+			  "date": "January 1921",
+			  "nationality": "American",
+			  "occupation": "Author",
+			  "quote" : "You know you're in love when you can't fall asleep because reality is finally better than your dreams."
+			},
+			{"author" : "Mae West",
+			  "date": "August 1893",
+			  "nationality": "American",
+			  "occupation": "Actress",
+			  "quote" : "You only live once, but if you do it right, once is enough."
+			},
+			{"author" : "J.K. Rowling",
+			  "date": "July 1965",
+			  "nationality": "British",
+			  "occupation": "Author",
+			  "quote" : "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals."
+			},
+			{"author" : "Albert Camus",
+			  "date": "November 1913",
+			  "nationality": "French",
+			  "occupation": "Philosopher",
+			  "quote" : "Don’t walk in front of me… I may not follow. Don’t walk behind me… I may not learn. Walk beside me… just be my friend"
+			},
+			{"author" : "C.S. Lewis",
+			  "date": "November 1898",
+			  "nationality": "British",
+			  "occupation": "Writer",
+			  "quote" : "Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . ."
+			},
+			{"author" : "Elbert Hubbard",
+			  "date": "June 1856",
+			  "nationality": "American",
+			  "occupation": "Writer",
+			  "quote" : "A friend is someone who knows all about you and still loves you."
+			},
+			{"author" : "Billy Connolly",
+			  "date": "November 1942",
+			  "nationality": "Scottish",
+			  "occupation": "Stand-Up Comedian",
+			  "quote" : "Before you judge a man, walk a mile in his shoes. After that who cares?... He’s a mile away and you’ve got his shoes!"
+			},
+			{"author" : "Abraham Lincoln",
+			  "date": "February 1809",
+			  "nationality": "American",
+			  "occupation": "16th President of the United States",
+			  "quote" : "Better to remain silent and be thought a fool than to speak out and remove all doubt."
+			},
+			{"author" : "Alexander Woollcott",
+			  "date": "January 1887",
+			  "nationality": "American",
+			  "occupation": "Critic",
+			  "quote" : "All the things I really like to do are either immoral, illegal or fattening."
+			},
+			{"author" : "Anton Chekhov",
+			  "date": "January 1860",
+			  "nationality": "Russian",
+			  "occupation": "Playwriter",
+			  "quote" : "Doctors are just the same as lawyers; the only difference is that lawyers merely rob you, whereas doctors rob you and kill you too."
+			},
+			{"author" : "Sir Arthur C. Clarke",
+			  "date": "December 1917",
+			  "nationality": "British",
+			  "occupation": "Fiction Writer",
+			  "quote" : "I don’t believe in astrology; I’m a Sagittarius and we’re skeptical."
+			},
+			{"author" : "Ashleigh Brilliant",
+			  "date": "December 1933",
+			  "nationality": "American",
+			  "occupation": "Author",
+			  "quote" : "My opinions may have changed, but not the fact that I’m right."
+			},
+			{"author" : "Ashleigh Brilliant",
+			  "date": "December 1933",
+			  "nationality": "American",
+			  "occupation": "Author",
+			  "quote" : "To be sure of hitting the target, shoot first, and call whatever you hit the target."
+			},
+			{"author" : "Bertrand Russell",
+			  "date": "May 1872",
+			  "nationality": "British",
+			  "occupation": "Polymath",
+			  "quote" : "The world is full of magical things patiently waiting for our wits to grow sharper."
+			},
+			{"author" : "Bill Vaughan",
+			  "date": "October 1915",
+			  "nationality": "American",
+			  "occupation": "Journalist",
+			  "quote" : "If there is anything the nonconformist hates worse than a conformist, it’s another nonconformist who doesn’t conform to the prevailing standard of nonconformity."
+			},
+			{"author" : "Carl Sagan",
+			  "date": "November 1934",
+			  "nationality": "American",
+			  "occupation": "Astronomer",
+			  "quote" : "But the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright Brothers. But they also laughed at Bozo the Clown."
+			},
+			{"author" : "Charles M. Schulz",
+			  "date": "November 1922",
+			  "nationality": "American",
+			  "occupation": "Cartoonist",
+			  "quote" : "Don’t worry about the world coming to an end today. It is already tomorrow in Australia."
+			},
+			{"author" : "Charles Wadsworth",
+			  "date": "1858",
+			  "nationality": "American",
+			  "occupation": "Pianist",
+			  "quote" : "By the time a man realizes that his father was right, he has a son who thinks he’s wrong."
+			},
+			{"author" : "Clarence Darrow",
+			  "date": "April 1855",
+			  "nationality": "American",
+			  "occupation": "Lawyer",
+			  "quote" : "When I was a boy I was told that anybody could become President. I’m beginning to believe it."
+			},
+			{"author" : "Claude Pepper",
+			  "date": "September 1900",
+			  "nationality": "American",
+			  "occupation": "Politician",
+			  "quote" : "A stockbroker urged me to buy a stock that would triple its value every year. I told him, ‘At my age, I don’t even buy green bananas.'"
+			},
+			{"author" : "Robert Mugabe",
+			  "date": "February 1924",
+			  "nationality": "Zimbabwean",
+			  "occupation": "Politician",
+			  "quote" : "If you are a married man and find yourself attracted to school girls then just buy your wife a school uniform."
+			}
+]
+}
